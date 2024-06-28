@@ -1,1 +1,1 @@
-# git-demoo
+# BSTU_practice
